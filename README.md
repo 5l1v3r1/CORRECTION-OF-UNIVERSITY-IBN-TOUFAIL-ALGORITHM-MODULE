@@ -1,6 +1,14 @@
 # Université Ibn Tofail - Ecole Nationale des Sciences Appliquées Kenitra.
-## "Correction de Contrôle de rattrapage" by SparkyDz. ##
-This is the typical correction of the exam of applied sciences of Kenitra (2019/2020).
-This project was maded just for fun.
-I have added some commments in "French" just to clearify my algorithm reasoning.
-Good luck dear CS Students. 😎
+> This basically my first contribution in the field of exam correction.
+Genuinely this is fascinating project 😍.
+##  Professeur : I.Oumaira.
+- Laboratoire de rattachement : Electrical Engineering Computing and Mathematical Sciences.
+- Courriel: oumaira@gmail.com
+----------
+
+# Presentation of the project.
+> this little project is maded of four exercices in "FRENCH".
+- **Author : Rafik Boudalia.**
+- **Language : PYTHON. (with no modules).**
+- ## DOWNLOAD THE PDF EXAM : 
+- [Contrôle de rattrapage](https://www.docdroid.net/2FH8aZY/controle-de-rattrapage-2020-pdf "Contrôle de rattrapage")
