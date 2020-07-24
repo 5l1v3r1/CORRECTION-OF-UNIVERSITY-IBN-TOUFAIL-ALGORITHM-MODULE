@@ -1,6 +1,6 @@
 # Université Ibn Tofail - Ecole Nationale des Sciences Appliquées Kenitra.
 - This basically my first contribution in the field of exam correction.
-- Genuinely this is fascinating project 😍.
+- Genuinely this is a fascinating project 😍.
 ##  Professeur : I.Oumaira.
 - Laboratoire de rattachement : Electrical Engineering Computing and Mathematical Sciences
 - Courriel: oumaira@gmail.com
