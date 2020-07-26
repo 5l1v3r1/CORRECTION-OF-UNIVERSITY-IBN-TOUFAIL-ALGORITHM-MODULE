@@ -3,7 +3,7 @@
 #                     #
 #---------------------#
 
-## le but c'est de poser une valeur approxmatif de E en utilisant une somme partiel
+## le but c'est de poser une valeur approxmatif de E en utilisant une somme partielle
 
 ##il nous faut de definir la foction factorielle:
 def factorial(n):
